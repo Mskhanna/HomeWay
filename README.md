@@ -33,3 +33,5 @@ The HomeWay app utilizes the following technologies and libraries:
 - Popper.js: Popper.js is a JavaScript library used for managing popovers and tooltips in the app.
 - jQuery Slim: A lightweight version of jQuery is used to optimize the app's performance.
 
+
+View the website here: https://mason.gmu.edu/~mkhanna2/CheckPoint2/index.html
