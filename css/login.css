@@ -1,0 +1,18 @@
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    width: 400px
+}
+
+.heading{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.loginbtn{
+    width: 500px;
+}
